@@ -1,1 +1,5 @@
-for all shell taks 2
+# ALx Devop Tasks
+
+This repo is for all shell tasks
+
+
